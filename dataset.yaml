@@ -1,0 +1,9 @@
+names:
+  0: Laptop
+  1: Mobile phone
+  2: Camera
+  3: Television
+  4: Printer
+  5: Washing machine
+path: C:\Users\saadk\Desktop\FixitAI\dataset
+val: .\images\val\

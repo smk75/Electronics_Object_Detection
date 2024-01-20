@@ -1,0 +1,14 @@
+path: C:\Users\saadk\Desktop\FixitAI\dataset
+train: images/val
+val: images/val
+
+# Classes
+# 'Laptop', 'Mobile phone', 'Camera', 'Television', 'Printer', 'Washing machine'
+
+names:
+  0: Laptop
+  1: Mobile phone
+  2: Camera
+  3: Television
+  4: Printer
+  5: Washing machine
